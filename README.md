@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mumpi</h1>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpitanandian20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@arpitanandi-jz6oc?si=DwoG8L4Ct-OwA1de) 
 
